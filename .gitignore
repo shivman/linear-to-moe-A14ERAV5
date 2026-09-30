@@ -1,0 +1,15 @@
+.DS_Store
+LEARNING.md
+HANDOFF.md
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/*.txt
+data/*.npy
+data/*.pt
+ckpts/
+*.pt
+*.pth
+results_smoke.json
+logs/smoke.jsonl
